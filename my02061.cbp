@@ -32,7 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="OZUtest.cpp" />
 		<Unit filename="OpenECE0206byIndex.cpp" />
+		<Unit filename="SI_test.cpp" />
+		<Unit filename="SO_test.cpp" />
 		<Unit filename="intrfECE0206.h" />
 		<Unit filename="ioctlECE0206.h" />
 		<Unit filename="library02061.cpp" />
